@@ -1,0 +1,11 @@
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DATA2\bin\Debug\Data.dll.config
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DATA2\bin\Debug\Data.dll
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DATA2\bin\Debug\Data.pdb
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DATA2\bin\Debug\EntityFramework.dll
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DATA2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DATA2\bin\Debug\EntityFramework.xml
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DATA2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DATA2\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DATA2\obj\Debug\Data.csproj.CopyComplete
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DATA2\obj\Debug\Data.dll
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DATA2\obj\Debug\Data.pdb

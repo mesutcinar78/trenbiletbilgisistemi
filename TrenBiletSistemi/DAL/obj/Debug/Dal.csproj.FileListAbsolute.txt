@@ -1,0 +1,15 @@
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\bin\Debug\DAL.dll.config
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\bin\Debug\DAL.dll
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\bin\Debug\DAL.pdb
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\bin\Debug\Data.dll
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\bin\Debug\EntityFramework.dll
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\bin\Debug\Data.pdb
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\bin\Debug\Data.dll.config
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\bin\Debug\EntityFramework.xml
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\obj\Debug\DAL.dll
+C:\Users\mkara\Documents\GitHub\trenbiletsistemi\TrenBiletSistemi\DAL\obj\Debug\DAL.pdb

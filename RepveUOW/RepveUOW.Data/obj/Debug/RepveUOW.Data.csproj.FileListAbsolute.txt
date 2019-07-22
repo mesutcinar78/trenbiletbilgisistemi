@@ -1,0 +1,15 @@
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\bin\Debug\RepveUOW.Data.dll.config
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\bin\Debug\RepveUOW.Data.dll
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\bin\Debug\RepveUOW.Data.pdb
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\bin\Debug\EntityFramework.dll
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\bin\Debug\RepveUOW.Data.Model.dll
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\bin\Debug\RepveUOW.Data.Model.pdb
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\bin\Debug\RepveUOW.Data.Model.dll.config
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\bin\Debug\EntityFramework.xml
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\obj\Debug\RepveUOW.Data.csprojAssemblyReference.cache
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\obj\Debug\RepveUOW.Data.csproj.CoreCompileInputs.cache
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\obj\Debug\RepveUOW.Data.csproj.CopyComplete
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\obj\Debug\RepveUOW.Data.dll
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data\obj\Debug\RepveUOW.Data.pdb

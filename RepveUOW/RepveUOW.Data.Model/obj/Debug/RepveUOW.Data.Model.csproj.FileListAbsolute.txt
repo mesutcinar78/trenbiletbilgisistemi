@@ -1,0 +1,12 @@
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\bin\Debug\RepveUOW.Data.Model.dll.config
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\bin\Debug\RepveUOW.Data.Model.dll
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\bin\Debug\RepveUOW.Data.Model.pdb
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\bin\Debug\EntityFramework.dll
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\bin\Debug\EntityFramework.xml
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.csprojAssemblyReference.cache
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.csproj.CopyComplete
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.dll
+C:\Users\mkara\source\repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.pdb
